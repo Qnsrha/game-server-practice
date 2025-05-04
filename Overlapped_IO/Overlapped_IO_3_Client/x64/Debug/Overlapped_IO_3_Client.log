@@ -1,0 +1,4 @@
+﻿  Overlapped_IO_3_Client.cpp
+C:\Users\parkw\source\repos\Overlapped_IO\Overlapped_IO_3_Client\Overlapped_IO_3_Client.cpp(36,36): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\parkw\source\repos\Overlapped_IO\Overlapped_IO_3_Client\Overlapped_IO_3_Client.cpp(39,50): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Overlapped_IO_3_Client.vcxproj -> C:\Users\parkw\source\repos\Overlapped_IO\x64\Debug\Overlapped_IO_3_Client.exe

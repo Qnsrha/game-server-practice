@@ -1,0 +1,4 @@
+﻿  WinSock_Server_MultiThread.cpp
+C:\Users\parkw\source\repos\WinSock\WinSock_Server_MultiThread\WinSock_Server_MultiThread.cpp(84,55): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\parkw\source\repos\WinSock\WinSock_Server_MultiThread\WinSock_Server_MultiThread.cpp(95,1): warning C4715: 'ClientHandle': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  WinSock_Server_MultiThread.vcxproj -> C:\Users\parkw\source\repos\WinSock\x64\Debug\WinSock_Server_MultiThread.exe
